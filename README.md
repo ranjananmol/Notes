@@ -1,11 +1,11 @@
 # Level 1
 
 - Intro
-- [:thumbsup:]  OpenVPN https://tryhackme.com/room/openvpn
-- [ ] Welcome https://tryhackme.com/jr/welcome :thumbsup:
-- [ ] Intro to Researching https://tryhackme.com/room/introtoresearch :thumbsup:
-- [ ] The Hacker Methodology https://tryhackme.com/room/hackermethodology
-- [ ] Learn Linux https://tryhackme.com/module/linux-fundamentals :collision:
+- [x] OpenVPN https://tryhackme.com/room/openvpn
+- [x] Welcome https://tryhackme.com/jr/welcome
+- [x] Intro to Researching https://tryhackme.com/room/introtoresearch
+- [x] The Hacker Methodology https://tryhackme.com/room/hackermethodology
+- [ ] Learn Linux https://tryhackme.com/module/linux-fundamentals
 - [ ] Crash Course Pentesting https://tryhackme.com/room/ccpentesting
 
 **Introductory CTFs to get your feet wet**
