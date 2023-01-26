@@ -2,10 +2,10 @@
 
 - Intro
 - [:thumbsup:]  OpenVPN https://tryhackme.com/room/openvpn
-- [ ] Welcome https://tryhackme.com/jr/welcome
-- [ ] Intro to Researching https://tryhackme.com/room/introtoresearch
+- [ ] Welcome https://tryhackme.com/jr/welcome :thumbsup:
+- [ ] Intro to Researching https://tryhackme.com/room/introtoresearch :thumbsup:
 - [ ] The Hacker Methodology https://tryhackme.com/room/hackermethodology
-- [ ] Learn Linux https://tryhackme.com/module/linux-fundamentals
+- [ ] Learn Linux https://tryhackme.com/module/linux-fundamentals :collision:
 - [ ] Crash Course Pentesting https://tryhackme.com/room/ccpentesting
 
 **Introductory CTFs to get your feet wet**
